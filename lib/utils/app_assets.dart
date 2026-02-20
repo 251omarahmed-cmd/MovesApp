@@ -6,5 +6,5 @@ class AppAssets {
   static const String iconEmail = "assets/images/icon_Email.png";
   static const String iconPassword = "assets/images/icon_Password.png";
   static const String iconEye = "assets/images/ icon _eye off_.png";
-  static const String iconGoogle = "assets/images/ icon _google_.png";
+  static const String iconGoogle = "assets/images/icon _google_.png";
 }
