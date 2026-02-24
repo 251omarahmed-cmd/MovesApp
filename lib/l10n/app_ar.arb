@@ -1,5 +1,15 @@
 {
-  "@@locale": "en",
-  "appTitle": "Movie App",
-  "forgetPassword": "Forget Password?"
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "forgetPassword": "?نسيت كلمة المرور",
+  "login": "تسجيل الدخول",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "createOne": "إنشاء حساب",
+  "or": "أو",
+  "loginWithGoogle": "تسجيل الدخول باستخدام جوجل",
+  "pleaseEnterMobileNumberOrEmailAddress":"الرجاء إدخال رقم الهاتف أو البريد الإلكتروني ",
+    "pleaseEnterValidPassword":"الرجاء إدخال كلمة مرور صحيحة",
+    "pleaseEnterPassword":"الرجاء إدخال كلمة المرور",
+    "passwordShouldBeAtLeast6Char":"يجب أن تتكون كلمة المرور من 6 أحرف على الأقل"
+
 }

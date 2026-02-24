@@ -1,5 +1,14 @@
 {
-  "@@locale": "en",
-  "appTitle": "Movie App",
-  "forgetPassword": "Forget Password?"
+  "email": "Email",
+  "password": "Password",
+  "forgetPassword": "Forget Password?",
+  "login": "Login",
+  "dontHaveAccount": "Don’t Have Account?",
+  "createOne": "Create One",
+  "or": "OR",
+  "loginWithGoogle": "Login With Google",
+  "pleaseEnterMobileNumberOrEmailAddress": "Please enter Mobile Number or Email Address",
+  "pleaseEnterValidPassword": "Please enter Valid Password",
+  "pleaseEnterPassword": "Please Enter Password",
+  "passwordShouldBeAtLeast6Char": "Password should be at least 6 char"
 }
